@@ -1,12 +1,12 @@
 var h = document.createElement("div");
 h.id = "headeroo";
 h.className = "header";
-h.innerHTML = '<a class="header-link" href="V1.html"><img src="Images/header.png" height="100%"/></a>';
+h.innerHTML = '<a class="header-link" href="index.html"><img class="header-logo" src="Images/header.png"/></a>';
 
 var n = document.createElement("div");
 n.id = "navbaroo";
 n.className = "navbar";
-n.innerHTML = '<a href="golf.html">Golf</a><a href="yale.html">Yale</a><a href="pingry.html">Pingry</a><a href="about.html">About</a>'
+n.innerHTML = '<a href="golf.html">Golf</a><a href="yale.html">Yale</a><a href="pingry.html">Pingry</a><a href="professional.html">Professional</a><a href="about.html">About</a>'
 
 document.body.prepend(n);
 document.body.prepend(h);
@@ -27,7 +27,12 @@ if (window.location.pathname.includes("pingry"))
     document.getElementById('navbaroo').children[2].className = "section";
 }
 
-if (window.location.pathname.includes("about"))
+if (window.location.pathname.includes("professional"))
 {
     document.getElementById('navbaroo').children[3].className = "section";
+}
+
+if (window.location.pathname.includes("about"))
+{
+    document.getElementById('navbaroo').children[4].className = "section";
 }

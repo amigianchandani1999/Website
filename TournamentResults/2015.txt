@@ -1,0 +1,46 @@
+Tournament Name 2015	Course	Yards	Tour	Start Date	End Date	1st round	Weather Day 1	2nd round	Weather Day 2	3rd round	Weather Day 3	Total	Place	Field	Location	Other	Birdies	4th round	Weather	
+																				
+South Carolina Open at Kiawah Island	The Ocean Course/Turtle Point	5616/6210	IJGT	14-Feb	15-Feb	87	Cold/Windy	73	Cold/Windy	X	X	160	1	6	"Kiawah Island, SC"		4			
+Timacuan Junior Shootout	Timacuan GC	5763	HJGT	7-Mar	8-Mar	88	Chilly	81	Sunny	X	X	169	15	24	"Lake Mary, FL"		1			
+Jacksonville Junior Shootout	Cimarrone GC	5600	HJGT	14-Mar	15-Mar	75	Humid	76	Sunny	X	X	151	3	14	"Jacksonville, FL"		6			
+High School Match 	Shackamaxon GC	2655	School	1-Apr	1-Apr	41	Cold	X	X	X	X	41	1 Team	2 teams	"Scotch Plains, NJ"	9 holes/Bumpy greens	2			
+Jersey Shootout	Greate Bay CC	5789	IJGT	4-Apr	5-Apr	89	Very Windy/Cold	84	Windy/Cold	X	X	173	2	11	"Somers Point, NJ"		1			
+High School Match 	New Jersey National 	2320	School	6-Apr	6-Apr	41	Sunny	X	X	X	X	41	2 Team	2 teams	"Basking Ridge, NJ"	9 holes/Airated Greens	0			
+High School Match	New Jersey National 	2320	School	9-Apr	9-Apr	40	Cold	X	X	X	X	40	2 Team	2 Teams	"Basking Ridge, NJ"	9 holes/Airated Greens	2			
+High School County Tournament	Neshanic Valley CC Lake/Meadow	5061	School	13-Apr	13-Apr	77	Sunny	X	X	X	X	77	3	24	"Neshanic Station, NJ"	Airated fairways and greens	2			
+Architects Cup	Architects GC	5693	IJGT	18-Apr	19-Apr	73	Sunny	77	Cold	X	X	150	4	21	"Phillipsburg, NJ"	Fever	3			
+High School Match	Mattawang	2661	School	21-Apr	21-Apr	35	Sunny	X	X	X	X	35	Team tie	2 teams	"Belle Mead, NJ"	Par 37	2			
+IMG Tournament 	Galloping Hill GC	5570	IMG	25-Apr	26-Apr	82	Cold/Windy	77	Cold	X	X	159	6	16	"Kenilworth, NJ"		4 + Eagle			
+Junior All-Star at Forsgate	Forsgate CC- The Banks Course	5861	AJGA	2-May	3-May	78	Cold	76	Cold	X	X	154	10	27	Monroe Twp. NJ		6			
+Skyland Conference Championships	Royce Brook GC	5062	School	7-May	7-May	72	Sunny	X	X	X	X	72	2	?	"Hillsborough, NJ"		4			
+Women's US Open Qualifier	Galloway National GC	~6800	USGA	1-Jun	1-Jun	78	Sunny	78	Sunny	X	X	156	18	~70	"Galloway, NJ"		2			
+Ryan Moore Junior Championship at Anthem 	Anthem CC	5990	AJGA	8-Jun	11-Jun	79	Hot	79	Hot	75	Hot	233	20	23	"Henderson, NV"	Fever	4			
+Golf Pride / David Leadbetter Junior Classic	Champions Gate GC - International Course	6052	AJGA	15-Jun	18-Jun	81	Hot/Humid	83	Hot/Humid	80	Hot/Humid	244	20	21	"ChampionsGate, FL"	Cold	3			
+U.S. Girls Junior Championship Qualifier	Arcola CC	6170	USGA	24-Jun	24-Jun	76	Sunny	X	X	X	X	76	2	32	"Paramus, NJ"		1			
+Junior PGA Championship Qualifier	Rossmoor CC	5388	NJPGA	29-Jun	30-Jun	75	Sunny	82	Windy/Rain	X	X	157	4	25	Monroe Twp. NJ		4			
+61st Junior Girls' Championship	Bella Vista CC	5264	NJSGA	7-Jul	8-Jul	72	Hot	71	Hot	X	X	143	1	30	"Marlboro, NJ"		7			
+University Open	Springdale GC/Rutgers University GC	5546/5500	NJPGA	14-Jul	15-Jul	78	Rain/Humid	73	Humid/Rain	X	X	151	1	17/31	"Princeton, NJ/Piscataway, NJ"		5			
+Girls' U.S. Junior Championship	Tulsa CC	6014	USGA	20-Jul	22-Jul	83	Hot/Humid/Rain	72	Hot/Humid	X	X	155	T133	156	"Tulsa, OK"	Missed Cut/ Caddie	6			
+AJGA Philadelphia Junior	Huntingdon Valley CC	6040	AJGA	27-Jul	28-Jul	78	Hot/Humid	79	Hot/Humid	75	Hot/Humid	232	14	23	"Huntingdon, PA"	36 holes in one day	4			
+Junior Cup	Rock Spring CC/Glen Ridge CC	5379/4937	NJPGA	3-Aug	4-Aug	74	Sunny	74	Windy	X	X	148	1	11	"West Orange, NJ"		1 + Eagle			
+NJPGA Championship	Fiddler's Elbow CC- River Course		NJPGA	10-Aug	12-Aug	75	Sunny	73	Windy	68	Sunny	216	1	15	"Bedminster, NJ"		11			
+Lessing's AJGA Classic	Willow Creek GC	5822	AJGA	17-Aug	20-Aug	75	Hot	77	Hot	77	Windy	229	15	21	"Mt. Sinai, NY"		5			
+John M. Pritsch Cup	Huntingdon Valley CC	5530	NJPGA	21-Aug	21-Aug	~72	Sunny	X	X	X	X	72	Team 2	2 teams	"Huntingdon, PA"	Match Play. Won singles 7 & 5				
+Junior Challenge	Architects GC	5233	NJPGA	26-Aug	27-Aug	74	Sunny	68	Sunny	X	X	144	1	18	"Phillipsburg, NJ"		7			
+Women's State Team Championship	Dalhousie CC	6158	USGA	10-Sep	12-Sep	75	Sunny	73	Sunny	84	Rain	232	Team 2. Individual T57	50/139	"Cape Girardeau, MO"	Caddie	6			
+Bustard Memorial Junior Invitational	Old York CC	5421	NJPGA	31-Oct	1-Nov	74	Cold	72	Cold	X	X	146	1	13	"Chesterfield, NJ"		5 + Eagle			
+Women's Dixie Amateur 	Heron Bay CC/TPC Eagle Trace	6240/6259	Dixie	16-Dec	19-Dec	72	Hot	75	Hot 	72	Hot	300	T35	135	"Coral Springs, FL"		5	81	WINDY	
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				
+																				

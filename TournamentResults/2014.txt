@@ -1,0 +1,40 @@
+Tournament Name 2014	Course	Yards	Tour	Start Date	End Date	1st round	Weather Day 1	2nd round	Weather Day 2	3rd round	Weather Day 3	Total	Place	Field	Location	Other	Birdies	
+																		
+19th Annual Innisbrook Christmas Junior	Copperhead	5605	AJGA	1-Jan	3-Jan	91	Cold/Windy	78	Sunny	97	Rain/Cold	266	16	21	"Palm Harbor, FL"			
+Timacuan Jr. Shootout	Timacuan	5103	HJGT	8-Mar	9-Mar	76	Sunny	85	Sunny	X	X	161	8	18	"Lake Mary, FL"		4	
+Amelia Island Jr. Challenge	Oak Marsh	5150	HJGT	15-Mar	16-Mar	88	Sunny	78	Windy	X	X	166	1	8	"Amelia Island, FL"		5	
+Southeast Florida Jr. Shootout	Madison Green	5188	HJGT	22-Mar	23-Mar	78	Rain	90	Sunny	X	X	168	2	5	"West Palm Beach, FL"		3	
+Bustard Memorial Junior Invitational	Old York CC	5717	NJPGA	5-Mar	6-Mar	91	Cold/Windy	83	Cold	X	X	174	4	8	Chesterfield NJ	New Grips	0	
+North Jersey Junior Open	High Bridge Hills	5108	HJGT	19-Apr	20-Apr	83	Cold	69	Cold	X	X	152	1	2	"High Bridge Hills, NJ"	New Grips	1 + Eagle	
+Spring Junior Event at Fox Hollow	Fox Hollow	5216	NJPGA	26-Apr	26-Apr	78	Rainy	X	X	X	X	78	2	14	"Branchburg, NJ"		2	
+North Jersey Spring Tour	Weequahic Park	4922	USKG	27-Apr	27-Apr	81	Cold	X	X	X	X	81	1	7	"Newark, NJ"		2 + Eagle	
+North Jersey Spring Tour	Bunker Hill	4839	USKG	4-May	4-May	84	Sunny	X	X	X	X	84	1	9	"Princeton, NJ"		1 + Eagle	
+North Jersey Spring Tour	Suneagles GC	5380	USKG	18-May	18-May	81	Sunny	X	X	X	X	81	1	8	"Eatontown, NJ"		2	
+US Women's Open Qualifier	Rumson CC	6617	USGA	21-May	21-May	81	Sunny	88	Sunny	X	X	169	48	56	"Rumson, NJ"	Caddie	0	
+Jr. PGA Championship Qualifier	Rossmoor GC	5388	NJPGA	23-Jun	24-Jun	79	Sunny	86	Sunny	X	X	165	9	35/17	"Monroe Township, NJ"		2	
+U.S. Girls' Junior Championship Qualifier	Neshanic Valley GC	5500	USGA/NJSGA	25-Jun	25-Jun	84	Windy	X	X	X	X	84	?	?	"Neshanic Station, NJ"	Caddie	1	
+Junior Event 	Knoll East	5405	NJPGA	26-Jun	26-Jun	78	Sunny	X	X	X	X	78	1	10	"Boonton, NJ"		0	
+Junior Masters 	Newton CC	5328	NJPGA	30-Jun	1-Jul	71	Sunny	78	Humid/Hot	X	X	149	1	7	"Newton, NJ"		4	
+US Women's Amateur Qualifier	Montammy CC	6267	USGA/NJSGA	7-Jul	7-Jul	82	Windy	X	X	X	X	82	~28	54	"Alpine, NJ"	Caddie	0	
+Junior Girls Tournament	Rock Spring CC	5379	WMGA	8-Jul	8-Jul	80	Sunny	X	X	X	X	80	1	6	"West Orange, NJ"	Home Course	3	
+60th Junior Girls' Championship	Royce Brook	5600	NJSGA	9-Jul	10-Jul	74	Sunny	80	Sunny	X	X	154	9	37	"Hillsborough Twp, NJ"		3	
+Junior Event 	Ramsey GC	5335	NJPGA	14-Jul	14-Jul	83	Wet/Humid	X	X	X	X	83	2	3	"Ramsey, NJ"		2	
+University Open	Springdale GC/Rutgers University GC	5323/5546	NJPGA	15-Jul	16-Jul	76	Wet 	74	Wet/Rain	X	X	150	1	9	"Princeton, NJ/Piscataway, NJ"		4	
+Junior Event	Eagle Ridge GC Pine/Link	5039	NJPGA	17-Jul	17-Jul	73	Hot	X	X	X	X	73	1	7	"Lakewood, NJ"		6	
+Junior Event	Shackamaxon GC	5402	NJPGA	21-Jul	21-Jul	85	Sunny	X	X	X	X	85	T2	8	"Scotch Plains, NJ"	Patchy Greens	2	
+North Jersey Interclub	Mountain Ridge CC	5522	Interclub	22-Jul	22-Jul	74	Hot	X	X	X	X	74	Team 1	6 Teams/3 scores/team	"West Caldwell, NJ"		5 + Eagle	
+Teen World Championship	Mid Pines GC	5808	USKG	24-Jul	26-Jul	79	Humid/Hot	78	Humid/Hot	84	Humid/Hot	241	7	38	"Pinehurst, NC"	Caddie	4	
+North Jersey Interclub	Echo Lake CC	5398	Interclub	29-Jul	29-Jul	74	Sunny	X	X	X	X	74	Team 2	6 Teams/3 scores/team	"Westfield, NJ"		3	
+Junior Event	New Jersey National	5333	NJPGA	31-Jul	31-Jul	76	Buggy	X	X	X	X	76	1	10	"Basking Ridge, NJ"		2	
+Junior PGA Championship	Fiddler's Elbow CC- River	5277	NJPGA	5-Aug	7-Aug	87	Buggy	74	Sunny	75	Sunny	236	2	16/23	"Bedminster, NJ"	Cut after Day 2	9	
+AJGA Junior Hosted by Morgan Hoffmann	Arcola Country Club	6023	AJGA	12-Aug	14-Aug	85	Sunny	79	Wet/Rain	84	Sunny	248	18	24	"Paramus, NJ"		5	
+John M. Pritsch Cup	TPC Jasna Polana	5340	NJPGA	15-Aug	15-Aug	82	Buggy	X	X	X	X	~82	Team 1	2	"Princeton, NJ"	Match Play. -3	0	
+AJGA Junior at Bethesda	Bethesda CC	5905	AJGA	19-Aug	21-Aug	73	Buggy	81	Sunny	77	Hot/Humid	231	T7	24	"Bethesda, Maryland"		5	
+Junior Event 	Essex County CC	5655	NJPGA	25-Aug	25-Aug	72	Hot	X	X	X	X	72	1	10	"West Orange, NJ"		3	
+Seaview Open	Seaview Resort- Bay	5419	USKG	30-Aug	31-Aug	71	Sunny	79	Hot	X	X	150	1	13	"Galloway, NJ"	Caddie	5	
+Major Championship 	Westlake CC	5128	HJGT	13-Sep	14-Sep	79	Pouring Rain/Cold	73	Cold		X	152	1	7	"Jackson, NJ"	Caddie	2	
+The Architects Cup	Architects GC	5233	IJGT	4-Oct	5-Oct	76	Cold/Windy	71	Cold	X	X	147	2	10	"Phillipsburg, NJ"		3	
+Tour Championship	Hawk's Landing GC	5027	HJGT	6-Dec	7-Dec	84	Sunny	73	Sunny	X	X	157	T6	64	"Orlando, FL"		3	
+																		
+																		
+																		
