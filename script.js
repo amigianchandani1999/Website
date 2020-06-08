@@ -8,8 +8,16 @@ n.id = "navbaroo";
 n.className = "navbar";
 n.innerHTML = '<a href="golf.html">Golf</a><a href="yale.html">Yale</a><a href="pingry.html">Pingry</a><a href="professional.html">Professional</a><a href="about.html">About</a>'
 
+
+var f = document.createElement("div");
+f.id = "footeroo";
+f.className = "footer";
+f.innerHTML = '<a href="#top">Top</a>'
+
+document.body.append(f);
 document.body.prepend(n);
 document.body.prepend(h);
+
 
 
 if (window.location.pathname.includes("golf"))

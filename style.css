@@ -47,7 +47,6 @@ body {
   text-decoration: none; /* Remove underline */
 }
 
-/* Right-aligned link */
 .navbar a.right {
   float: right; /* Float a link to the right */
 }
@@ -78,6 +77,18 @@ body {
 .card:hover {
   box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
 }
+
+.feature {
+    text-align:center;
+    border-style: solid;
+    border-color: gainsboro;
+    padding: 10px;
+    box-shadow: inset 0 0 20px 4px gainsboro;
+    background-color: white;
+    color: #0B208B;
+}
+
+
 
 /* Add some padding inside the card container */
 .container {
@@ -132,6 +143,7 @@ body {
 .row {
   display: flex;
   flex-wrap: wrap;
+  width: 100%;
 }
 
 .side {
@@ -148,6 +160,8 @@ body {
   background-color: white; /* White background color */
   padding: 15px; /* Some padding */
   color: #0B208B; /* White text color */
+  overflow: hidden;
+  max-width: 100%
 }
 
 .class-link {
@@ -164,11 +178,19 @@ body {
     width: 10%;
 }
 
+.table-container {
+    width: 100%;
+    overflow-x: auto;
+}
+
+table {
+    width: 100%;
+    min-width: 700px;
+}
+
 table, th, td {
   border: 1px solid black;
   border-collapse: collapse;
-  width: 75%;
-
 }
 
 th {
@@ -177,6 +199,16 @@ th {
   text-align: left;
   background-color: #0B208B;
   color: white;
+  height: 25px;
+}
+
+td {
+    padding-top: 9px;
+    padding-bottom: 9px;
+}
+
+tr:hover {
+    background-color: gainsboro;
 }
 
 
@@ -213,5 +245,9 @@ th {
   padding: 10px; /* Some padding */
   text-align: center; /* Center text*/
   background: gainsboro; /* Grey background */
+}
+
+.footer a {
   color: #0B208B;
+  text-decoration: none;
 }

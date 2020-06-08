@@ -14,12 +14,8 @@ function createCORSRequest(method, url){
     return xhr;
 }
 
-var xhr_YDN_tok = createCORSRequest("GET", "https://cse.google.com/cse.js?hpg=1&cx=010327200236473118383:talvx2ixvnk");
+var xhr_YDN_tok = createCORSRequest("GET", "http://localhost:3000/news");
 
-var xhr = createCORSRequest("GET", "https://yalebulldogs.com/services/archives.ashx/stories?index=1&page_size=30&sport=0&season=0&search=ami+gianchandani")
-//var xhrYDN = createCORSRequest("GET", "https://cse.google.com/cse/element/v1?rsz=filtered_cse&num=30&hl=en&source=gcsc&gss=.com&cselibv=57975621473fd078&cx=010327200236473118383:talvx2ixvnk&q=ami%20gianchandani&safe=off&cse_tok="+ cse_token +"&sort=&exp=csqr,cc&oq=ami%20gianchandani&callback=google.search.cse.api5859");
-                //                       https://cse.google.com/cse/element/v1?rsz=filtered_cse&num=10&hl=en&source=gcsc&gss=.com&cselibv=57975621473fd078&cx=010327200236473118383:talvx2ixvnk&q=ami%20gianchandani&safe=off&cse_tok=AJvRUv18ySBRpLdOpVxyyCVfKQvi:1589423122247&sort=&exp=csqr,cc&oq=ami%20gianchandani&callback=google.search.cse.api8288
-                //                       AJvRUv3s_COuOMCmfnJksk53dJHV:1589250526904
 
 
 xhr.onreadystatechange = function() {
